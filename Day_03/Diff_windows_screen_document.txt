@@ -1,0 +1,25 @@
+Difference between window (vs) screen (vs) document ?
+
+    - window
+        1. It's intermediator for javascript and browser
+        2. It's also called as BOM -> Browser Object Module
+        3. Global variablesa and function are a member of window
+        4. DOM is the property of BOM
+    
+    - screen
+     
+        1. It contains the info of user screen
+        2. Properties like 
+            1.width 
+            2. height 
+            3. availWidth 
+            4. availHeight 
+            5. colorDepth
+            6. pixelDepth
+    
+    -document
+
+        1. It represent the user web page
+        2. It has various function to derive & dit a particular or a group of elements inside it
+        3. Ex: document.URL to print the current url of the web page
+        

@@ -1,0 +1,46 @@
+{
+    "name": "raja",
+    "age": "20",
+    "location": "Theni",
+    "pinCode": 625516,
+    "expireancedYears": 2,
+    "skillSet": [
+        {
+            "skill": "ES6",
+            "level": "Expert"
+        },
+        {
+            "skill": "ReactJs",
+            "level": "Expert"
+        },
+        {
+            "skill": "NodeJs",
+            "level": "Intermediare"
+        },
+        {
+            "skill": "ExpressJs",
+            "level": "Intermediare"
+        },
+        {
+            "skill": "VueJs",
+            "level": "Intermediare"
+        },
+        {
+            "skill": "Python",
+            "level": "Expert"
+        },
+        {
+            "skill": "MongoDB",
+            "level": "Expert"
+        }
+    ],
+    "packagesHandsOn": [
+        "vis-timeline.js",
+        "cesiumJs",
+        "leafletJs",
+        "socket.io",
+        "peerjs",
+        "bcrypt",
+        "cloudinary API"
+    ]
+}
